@@ -1,7 +1,8 @@
 # PPL4620
 ## Tugas Proyek Perangkat Lunak
-Nama kelompok : Nama Tim : Tim Pengembang SMS-Online Kelompok 2
-no Kelompok : kelompok 2
+Nama Tim : Tim Pengembang SMS-Online Kelompok 2
+
+kelompok 2
 
 Project Leader			: Endika Andre C. (A11.2018.11592)
 Business & System Analyst 	: Megah Adi W. (A11.2018.11346)
